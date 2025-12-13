@@ -1,4 +1,6 @@
 
+# INIT SELF özellikleri çağırabilmek private yapabilmek vb
+
 """
 def get_marka(self):
         return self.marka
