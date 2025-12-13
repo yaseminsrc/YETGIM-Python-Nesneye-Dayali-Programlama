@@ -1,5 +1,5 @@
 """
-Listeler
+LISTELER  []
 Değiştirilebilir
 elemanlarının index numarası vardır
 bir listede değişik tipli veriler saklanabilir
