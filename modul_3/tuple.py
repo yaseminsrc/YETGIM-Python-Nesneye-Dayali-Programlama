@@ -1,5 +1,5 @@
 """
-Tuple 
+TUPLE DEMET () 
 *Değiştirilemezler
 *Elemanlarının index-sıra numarası vardır
 """
