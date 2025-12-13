@@ -1,3 +1,5 @@
+# FONKSIYONLAR parametreli ve parametresiz
+
 
 #Parametresiz None(void) döndüren fonksiyonlar
 # def selamla():
