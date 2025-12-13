@@ -1,3 +1,5 @@
+# LOOPS DÖNGÜLER for while
+
 # print("Merhaba")
 # print("Merhaba")
 # print("Merhaba")
