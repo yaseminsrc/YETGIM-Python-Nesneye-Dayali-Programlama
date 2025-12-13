@@ -1,4 +1,4 @@
-
+# STRINGLER
 isim = "Berkay"
 soyisim = 'Kaplan'
 cok_satirli_str = """
