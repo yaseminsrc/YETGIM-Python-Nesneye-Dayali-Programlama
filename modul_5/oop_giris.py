@@ -1,4 +1,4 @@
-
+#OOP class get set
 
 
 class Ogrenci:
