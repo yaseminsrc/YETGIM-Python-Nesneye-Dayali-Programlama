@@ -1,5 +1,5 @@
 
-
+#INHERITANCE
 
 # class UstSınıf:
 #     def __init__(self,ozellik):
