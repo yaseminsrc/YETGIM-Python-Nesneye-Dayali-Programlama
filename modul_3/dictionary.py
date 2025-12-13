@@ -1,5 +1,6 @@
 """
-Dicionary
+DICTIONARY => KEY : VALUE
+
 *Değiştirlebilir 
 *Elemanlarının sıra numarası yerine 'Key'leri vardır
 *Key-Value şekllinde çalışır
